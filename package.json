@@ -1,0 +1,16 @@
+{
+  "name": "@download13/timestamper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "NODE_ENV=production node server"
+  },
+  "repository": "",
+  "author": "Erin Dachtler <download333@gmail.com>",
+  "dependencies": {
+    "chrono-node": "^1.2.4",
+    "dateformat": "^1.0.12",
+    "express": "^4.14.0"
+  }
+}
